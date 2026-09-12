@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "silent-burden-uk",
+  "builds": [
+    { "src": "silent_burden_uk_dashboard.html", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/silent_burden_uk_dashboard.html" }
+  ]
+}

@@ -13,7 +13,7 @@ Men account for roughly 75% of all suicides in the UK — a figure that has bare
 
 This project asks why that is, and what the data tells us about who is most at risk and why they are least likely to receive help before it is too late.
 
-The analysis covers the full 24-year trend from 2000 to 2024, four-nation comparisons, age-group breakdowns, and a detailed look at what happens to ethnic minority men specifically. Black men are detained under the Mental Health Act at four times the rate of White British men, yet reach recovery in NHS Talking Therapies (IAPT) at less than half the rate. That gap does not happen by accident. This project tries to explain it with data.
+The analysis covers the full 24-year trend from 2000 to 2024, four-nation comparisons, age-group breakdowns, and a detailed look at what happens to ethnic minority men specifically. Black men are detained under the Mental Health Act at four times the rate of White British men, yet complete NHS Talking Therapies (IAPT) at less than half the rate. That gap does not happen by accident. This project tries to explain it with data.
 
 ---
 
@@ -49,15 +49,6 @@ Where ONS records ethnicity as "not stated" (around 18% of male suicide deaths),
 
 ---
 
-## A note on the numbers
-
-The dashboard reports two kinds of figure, and they are labelled differently on purpose:
-
-- **Official statistics** — suicide rates, IAPT recovery rates, and Mental Health Act detention rates come directly from the published sources in the table above.
-- **Analyst-constructed indices** — the 1–10 risk-factor scores are my own synthesis of the literature, used to compare the *relative* weight of risk factors between groups. They are not published statistics and are labelled as such in the dashboard.
-
-Regional figures are age-standardised rates per 100,000 for males, from `data/ons_regions.csv`. The North East has the highest rate (21.4) and the East of England the lowest (12.8); London sits mid-table at 16.8.
-
 ## Key findings
 
 - The UK male suicide rate reached **17.6 per 100,000** in 2024 — the highest this century
@@ -65,9 +56,9 @@ Regional figures are age-standardised rates per 100,000 for males, from `data/on
 - Wales recorded a **+14% year-on-year increase** in 2024, reaching 25.0 per 100,000
 - The peak risk age group is **50–54 years** (27.5 per 100,000 for males)
 - Black men are detained under the Mental Health Act at **4× the rate** of White British men
-- Black men reach recovery in NHS Talking Therapies at **32%** vs 65% for White British men
+- Black men complete NHS Talking Therapies at **32%** of referrals vs 65% for White British men
 - Gypsy, Roma and Traveller men have a life expectancy gap of **10–12 years** below the national average
-- The North East of England has a rate **27% higher** than London
+- The North East of England has a rate **67% higher** than London
 
 ---
 

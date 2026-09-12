@@ -1,0 +1,81 @@
+year,male_rate,female_rate,nation
+2000,17.2,5.5,England & Wales
+2001,16.8,5.4,England & Wales
+2002,17.0,5.6,England & Wales
+2003,17.3,5.4,England & Wales
+2004,17.5,5.6,England & Wales
+2005,17.4,5.3,England & Wales
+2006,17.4,5.4,England & Wales
+2007,17.6,5.2,England & Wales
+2008,17.9,5.3,England & Wales
+2009,18.1,5.4,England & Wales
+2010,18.1,5.1,England & Wales
+2011,18.0,5.3,England & Wales
+2012,18.2,5.5,England & Wales
+2013,18.7,5.2,England & Wales
+2014,18.1,5.0,England & Wales
+2015,16.8,4.9,England & Wales
+2016,15.8,5.0,England & Wales
+2017,15.5,5.1,England & Wales
+2018,16.2,5.5,England & Wales
+2019,17.3,5.6,England & Wales
+2020,16.2,5.2,England & Wales
+2021,15.8,5.1,England & Wales
+2022,17.0,5.4,England & Wales
+2023,17.4,5.5,England & Wales
+2024,17.6,5.8,England & Wales
+2000,19.5,7.0,Northern Ireland
+2001,20.5,7.2,Northern Ireland
+2002,20.1,7.0,Northern Ireland
+2003,21.0,7.3,Northern Ireland
+2004,21.8,7.5,Northern Ireland
+2005,20.7,7.1,Northern Ireland
+2006,21.3,7.3,Northern Ireland
+2007,22.6,7.8,Northern Ireland
+2008,23.3,8.0,Northern Ireland
+2009,24.3,8.3,Northern Ireland
+2010,23.5,8.0,Northern Ireland
+2011,23.0,7.8,Northern Ireland
+2012,24.3,8.3,Northern Ireland
+2013,25.3,8.6,Northern Ireland
+2014,23.5,8.0,Northern Ireland
+2015,22.1,7.5,Northern Ireland
+2016,21.6,7.3,Northern Ireland
+2017,22.5,7.6,Northern Ireland
+2018,23.9,8.1,Northern Ireland
+2019,23.2,7.9,Northern Ireland
+2020,22.1,7.5,Northern Ireland
+2021,22.9,7.7,Northern Ireland
+2022,23.8,8.0,Northern Ireland
+2023,20.9,7.8,Northern Ireland
+2000,21.0,6.4,Scotland
+2001,20.5,6.2,Scotland
+2002,20.2,6.0,Scotland
+2003,20.8,6.3,Scotland
+2004,21.3,6.5,Scotland
+2005,20.7,6.1,Scotland
+2006,20.2,5.9,Scotland
+2007,20.8,6.2,Scotland
+2008,21.4,6.5,Scotland
+2009,21.8,6.6,Scotland
+2010,21.5,6.4,Scotland
+2011,21.2,6.2,Scotland
+2012,21.8,6.5,Scotland
+2013,22.3,6.7,Scotland
+2014,21.5,6.3,Scotland
+2015,20.7,5.9,Scotland
+2016,20.2,5.7,Scotland
+2017,19.7,5.5,Scotland
+2018,20.3,5.8,Scotland
+2019,20.8,6.1,Scotland
+2020,19.9,5.6,Scotland
+2021,19.5,5.4,Scotland
+2022,20.1,5.7,Scotland
+2023,19.8,5.6,Scotland
+2024,19.3,5.8,Scotland
+2019,20.8,7.3,Wales
+2020,19.5,6.8,Wales
+2021,18.8,6.6,Wales
+2022,21.0,7.3,Wales
+2023,22.0,7.7,Wales
+2024,25.0,8.8,Wales

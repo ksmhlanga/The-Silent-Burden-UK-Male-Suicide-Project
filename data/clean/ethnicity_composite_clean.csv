@@ -1,0 +1,6 @@
+ethnic_group,iapt_referral_idx,iapt_completion_idx,iapt_recovery_idx,mha_detention_idx,mha_via_police_pct,composite_score,risk_tier
+White British,100,100,100,100,18,3.6,Baseline
+White Other,88,82,88,112,20,12.4,Moderate
+Mixed Heritage,74,58,72,180,28,30.4,High
+Asian/Asian British,72,55,68,140,22,26.4,Moderate
+Black/Black British,68,48,60,420,45,61.8,Critical

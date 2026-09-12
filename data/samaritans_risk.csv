@@ -1,0 +1,14 @@
+risk_factor,general_male_score,minority_male_score,evidence_quality
+Unemployment,75,85,Strong
+Relationship breakdown,72,74,Strong
+Debt / financial crisis,70,80,Strong
+Alcohol misuse,80,60,Strong
+Drug misuse,82,55,Strong
+Physical health condition,65,60,Moderate
+Previous attempt,90,88,Very Strong
+Living alone,68,72,Moderate
+Bereavement,60,65,Moderate
+Racism/discrimination,35,90,Strong
+Immigration stress,25,88,Strong
+Cultural stigma to help-seeking,55,92,Strong
+Criminal justice system contact,78,85,Strong

@@ -1,0 +1,88 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Every 1.8 Hours, a Man Dies by Suicide in the UK — The Silent Burden Portfolio Card</title>
+
+  <!-- Deep navy background -->
+  <rect width="1200" height="630" fill="#0B1929"/>
+
+  <!-- Subtle grid lines -->
+  <g stroke="#ffffff" stroke-opacity="0.04" stroke-width="1">
+    <line x1="0" y1="105" x2="1200" y2="105"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="0" y1="315" x2="1200" y2="315"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/>
+    <line x1="0" y1="525" x2="1200" y2="525"/>
+    <line x1="200" y1="0" x2="200" y2="630"/>
+    <line x1="400" y1="0" x2="400" y2="630"/>
+    <line x1="600" y1="0" x2="600" y2="630"/>
+    <line x1="800" y1="0" x2="800" y2="630"/>
+    <line x1="1000" y1="0" x2="1000" y2="630"/>
+  </g>
+
+  <!-- Accent left bar -->
+  <rect x="0" y="0" width="6" height="630" fill="#0d9488"/>
+
+  <!-- Trend line (ONS male rates 2000-2024, scaled) -->
+  <g opacity="0.25">
+    <polyline
+      fill="none"
+      stroke="#0d9488"
+      stroke-width="2"
+      stroke-linejoin="round"
+      points="60,501 108,519 156,511 204,494 252,486 300,489 348,489 396,481 444,469 492,462 540,462 588,465 636,458 684,439 732,462 780,519 828,550 876,558 924,534 972,494 1020,534 1068,550 1092,511 1116,497 1140,489"
+    />
+  </g>
+
+  <!-- Year labels -->
+  <g fill="#0d9488" opacity="0.5" font-size="10" font-family="system-ui,sans-serif">
+    <text x="60" y="600" text-anchor="middle">2000</text>
+    <text x="684" y="600" text-anchor="middle">2013</text>
+    <text x="1140" y="600" text-anchor="middle">2024</text>
+  </g>
+
+  <!-- Peak annotation -->
+  <circle cx="684" cy="439" r="5" fill="#ca6b6e" opacity="0.8"/>
+  <text x="700" y="432" font-size="11" fill="#ca6b6e" opacity="0.9" font-family="system-ui,sans-serif">Peak 18.7</text>
+
+  <!-- 2024 end dot -->
+  <circle cx="1140" cy="489" r="5" fill="#0d9488" opacity="0.9"/>
+
+  <!-- Stat block 1 -->
+  <rect x="860" y="60" width="300" height="130" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#0d9488" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="1010" y="100" text-anchor="middle" font-size="11" fill="#0d9488" font-family="system-ui,sans-serif" letter-spacing="2">ENGLAND &amp; WALES · 2024</text>
+  <text x="1010" y="148" text-anchor="middle" font-size="42" font-weight="800" fill="#ffffff" font-family="system-ui,sans-serif">17.6</text>
+  <text x="1010" y="172" text-anchor="middle" font-size="12" fill="#94A3B8" font-family="system-ui,sans-serif">per 100,000 males · age-standardised</text>
+
+  <!-- Stat block 2 -->
+  <rect x="860" y="210" width="300" height="100" rx="12" fill="#ffffff" fill-opacity="0.04" stroke="#ca6b6e" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="1010" y="248" text-anchor="middle" font-size="11" fill="#ca6b6e" font-family="system-ui,sans-serif" letter-spacing="2">MALE SHARE OF ALL SUICIDES</text>
+  <text x="1010" y="289" text-anchor="middle" font-size="42" font-weight="800" fill="#ffffff" font-family="system-ui,sans-serif">75%</text>
+
+  <!-- Main title -->
+  <text x="64" y="115" font-size="52" font-weight="900" fill="#ffffff" font-family="system-ui,sans-serif">Every 1.8 Hours,</text>
+  <text x="64" y="185" font-size="52" font-weight="900" fill="#0d9488" font-family="system-ui,sans-serif">a Man Dies by Suicide</text>
+  <text x="64" y="255" font-size="52" font-weight="900" fill="#ffffff" font-family="system-ui,sans-serif">in the UK</text>
+
+  <!-- Subtitle -->
+  <text x="64" y="310" font-size="20" fill="#94A3B8" font-family="system-ui,sans-serif">A 25-Year Data Analysis · ONS, NHS Digital, Samaritans · 2000–2024</text>
+
+  <!-- Divider -->
+  <line x1="64" y1="340" x2="820" y2="340" stroke="#0d9488" stroke-width="1" stroke-opacity="0.4"/>
+
+  <!-- Tags -->
+  <g font-size="12" font-family="system-ui,sans-serif">
+    <rect x="64" y="358" width="130" height="26" rx="13" fill="#0d9488" fill-opacity="0.15" stroke="#0d9488" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="129" y="375" text-anchor="middle" fill="#0d9488">Data Analytics</text>
+    <rect x="206" y="358" width="160" height="26" rx="13" fill="#0d9488" fill-opacity="0.15" stroke="#0d9488" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="286" y="375" text-anchor="middle" fill="#0d9488">Public Health</text>
+    <rect x="378" y="358" width="140" height="26" rx="13" fill="#0d9488" fill-opacity="0.15" stroke="#0d9488" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="448" y="375" text-anchor="middle" fill="#0d9488">ONS · NHS Data</text>
+    <rect x="530" y="358" width="150" height="26" rx="13" fill="#ca6b6e" fill-opacity="0.15" stroke="#ca6b6e" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="605" y="375" text-anchor="middle" fill="#ca6b6e">9 Dimensions</text>
+    <rect x="692" y="358" width="110" height="26" rx="13" fill="#ca6b6e" fill-opacity="0.15" stroke="#ca6b6e" stroke-width="1" stroke-opacity="0.5"/>
+    <text x="747" y="375" text-anchor="middle" fill="#ca6b6e">Chart.js</text>
+  </g>
+
+  <!-- Byline -->
+  <text x="64" y="560" font-size="14" fill="#64748B" font-family="system-ui,sans-serif">Kudzanayi Shepherd Mhlanga · Senior Vehicle Engineer → Data Analyst · London, UK</text>
+  <text x="64" y="582" font-size="13" fill="#0d9488" font-family="system-ui,sans-serif">silent-burden-uk.vercel.app</text>
+</svg>

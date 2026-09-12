@@ -1,0 +1,9 @@
+ethnic_group,referral_index,treatment_start_index,completion_index,recovery_index,notes
+White British,100,100,100,100,Baseline reference group
+White Other,88,85,82,88,Better access than non-white groups but below White British
+Mixed Heritage,74,70,58,72,"Elevated risk, often invisible in service data"
+Asian/Asian British,72,68,55,68,Honour/izzat barriers; underdiagnosis
+Black/Black British,68,62,48,60,Lowest completion; systemic misdiagnosis; 4x MHA detention
+Chinese,55,50,40,52,Severe language barriers; cultural stigma
+Arab,48,42,35,44,Immigration stress; distrust of NHS
+Any Other,60,55,46,58,Diverse group; access varies widely by community

@@ -56,7 +56,7 @@ The dashboard reports two kinds of figure, and they are labelled differently on 
 - **Official statistics** — suicide rates, IAPT recovery rates, and Mental Health Act detention rates come directly from the published sources in the table above.
 - **Analyst-constructed indices** — the 1–10 risk-factor scores are my own synthesis of the literature, used to compare the *relative* weight of risk factors between groups. They are not published statistics and are labelled as such in the dashboard.
 
-Regional figures are age-standardised rates per 100,000 for males. London's rate (12.8) is the lowest of the nine English regions; the North East (21.4) is the highest.
+Regional figures are age-standardised rates per 100,000 for males, from `data/ons_regions.csv`. The North East has the highest rate (21.4) and the East of England the lowest (12.8); London sits mid-table at 16.8.
 
 ## Key findings
 
@@ -67,7 +67,7 @@ Regional figures are age-standardised rates per 100,000 for males. London's rate
 - Black men are detained under the Mental Health Act at **4× the rate** of White British men
 - Black men reach recovery in NHS Talking Therapies at **32%** vs 65% for White British men
 - Gypsy, Roma and Traveller men have a life expectancy gap of **10–12 years** below the national average
-- The North East of England has a rate **67% higher** than London
+- The North East of England has a rate **27% higher** than London
 
 ---
 

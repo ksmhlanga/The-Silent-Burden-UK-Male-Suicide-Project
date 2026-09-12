@@ -1381,7 +1381,7 @@
               <div style="background:#0d9488;color:#fff;border-radius:50%;width:26px;height:26px;min-width:26px;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:13px;margin-top:2px;">4</div>
               <div>
                 <div style="font-weight:800;font-size:13px;color:#0F2942;margin-bottom:3px;">The North East / London gap is wider than most people realise</div>
-                <div style="font-size:12px;color:#64748B;line-height:1.6;">North East England's rate (21.4) is 67% higher than London's (12.8). These are not adjacent on a chart — they represent profoundly different risk environments within the same country, with the same NHS, under the same government.</div>
+                <div style="font-size:12px;color:#64748B;line-height:1.6;">North East England's rate (21.4) is 27% higher than London's (16.8). These are not adjacent on a chart — they represent profoundly different risk environments within the same country, with the same NHS, under the same government.</div>
               </div>
             </div>
           </div>
@@ -1571,10 +1571,10 @@
             <li><span>Yorkshire</span><span class="rp-mini-val">18.6</span></li>
             <li><span>East Midlands</span><span class="rp-mini-val">17.2</span></li>
             <li><span>West Midlands</span><span class="rp-mini-val">16.9</span></li>
-            <li><span>East England</span><span class="rp-mini-val">16.2</span></li>
-            <li><span>London</span><span class="rp-mini-val">12.8</span></li>
+            <li><span>East England</span><span class="rp-mini-val">12.8</span></li>
+            <li><span>London</span><span class="rp-mini-val">16.8</span></li>
             <li><span>South East</span><span class="rp-mini-val">15.4</span></li>
-            <li><span>South West</span><span class="rp-mini-val">16.8</span></li>
+            <li><span>South West</span><span class="rp-mini-val">16.2</span></li>
           </ul>
         </div>
         <div class="rp-divider"></div>
@@ -1582,7 +1582,7 @@
           <div class="rp-title">Key Finding</div>
           <div class="rp-metric-card">
             <div class="rp-metric-label">North-South divide</div>
-            <div class="rp-metric-val">67%</div>
+            <div class="rp-metric-val">27%</div>
             <div class="rp-metric-sub">Higher rates in North vs London</div>
           </div>
           <div class="rp-metric-card">
@@ -2055,7 +2055,7 @@ function renderNationsCharts() {
       labels: ['North East', 'North West', 'Yorkshire', 'E. Mids', 'W. Mids', 'East', 'London', 'South East', 'South West'],
       datasets: [{
         label: 'Male Rate',
-        data: [21.4, 19.8, 18.6, 17.2, 16.9, 16.2, 12.8, 15.4, 16.8],
+        data: [21.4, 19.8, 18.6, 17.2, 16.9, 12.8, 16.8, 15.4, 16.2],
         backgroundColor: d => d.raw > 18 ? CORAL+'cc' : d.raw < 14 ? TEAL+'cc' : AMBER+'99',
         borderRadius: 6
       }]

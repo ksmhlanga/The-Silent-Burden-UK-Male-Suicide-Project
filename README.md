@@ -31,6 +31,14 @@ The analysis covers the full 24-year trend from 2000 to 2024, four-nation compar
 
 ---
 
+## Licence and reuse
+
+Code in this repository is released under the MIT Licence. The underlying statistics are
+Crown copyright, published by ONS, NHS Digital, NISRA and Public Health Scotland under the
+[Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/),
+and remain subject to that licence. Figures are reproduced here for analysis; the original
+publications are the authoritative source.
+
 ## Data sources
 
 All figures come from official published sources:
